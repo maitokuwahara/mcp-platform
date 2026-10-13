@@ -4,5 +4,8 @@
   },
   "volta": {
     "node": "22.23.3"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.12.7"
   }
 }
